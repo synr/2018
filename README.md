@@ -1,1 +1,2 @@
-# 2018
+# synr.github.io
+https://synr.github.io
