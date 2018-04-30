@@ -1,6 +1,6 @@
 #CCNDA 各種構想
-[📖  MDwiki]()
-<!--
+<!--[📖  MDwiki]()
+
   - # 📣 我來說說 MDwiki
   - [💬 我所理解的 MDwiki（試玩中XD）](#!index.md)
   - [🔰 MDwiki 基礎重點架構檔案](#!mdwiki/mdwiki.main.md)
@@ -34,15 +34,7 @@
   - #Markdown
   - [常見的 Markdown 寫法介紹](#!mdwiki/mdwiki.markdown.md "待補")
 -->
-[🏥  反勒索病毒推廣！]()
 
-  - #2016 所寫（短期內不更新）
-  - [💉 為加密式惡意行為，事先設防降低受害風險（反勒索病毒）](#!kisisie/kisisie.md)
-  - [💊 ニコニコ動画 改用 HTML5 來播放（完全不透過 Flash）](#!kisisie/kisisie.nico.md)
-  ----
-  - #Trello 版，不定期隨時更新、資料較新。
-  - <a href="https://trello.com/c/PV4kfjSD">💉 為加密式惡意行為，事先設防降低受害風險（反勒索病毒）<img src="trello.png" />　</a>
-  - <a href="https://trello.com/c/1lAqsfi8">💊 ニコニコ動画 改用 HTML5 來播放（完全不透過 Flash）<img src="trello.png" />　</a> 
 
 [📺 影片]()
 
@@ -62,10 +54,7 @@
   - #亂唱中！音量注意建議調小！
   - <a href="javascript:himitsu_ui('U2FsdGVkX1+IUFEqTr/bZx3d9qmPjmjS1px7fjzfjfvpdatjU8LOlWzuGsChKdTucXyYHUdp4aaooGCAN7SXjF/FwoYMMMX4AZqgKa6yTcUn4AW/yPJsX+eaofyHyLKRUCERmmaXowABbRqrxNhicXXsjSwqk1d8gB/zyFsdA/y0buD6Bol41LCA+WX0tEsJZTTL+Y907aQdVLfWlEzewkNpAV/KzzeHM4JfUVuCaBaHW0j06ATBI9VGu0dFdNI+8S2ETR7R1m2e0cTvh0dtd7+Oq+jOQzX1lw4N9NGCsotOAhwnzttwzJl2EwtcZoMx4G9CQpMFBIyUlACjn7wRInH+HL8mFCpwt2sS6dFx+3HYnX/gkSaOVzaWrVgxMBOL','_blank');" title="要聽我唱歌嗎？直接問我本人暗號多少就可以聽了！">★─☆｡oﾟ｡共鳴中(o｀▽´)っ ～*♪･ﾟ｡☆彡</a>
 
-[秘密基地]()
 
-  - #你要來嗎？
-  - <a href="javascript:himitsu_ui('U2FsdGVkX1/RTYU2nEHFzge8xW6VSzjiiLDgEz3xnDg=','md');">你知道就進來吧</a>
 
 [gimmick:themechooser](🎨  網站配色)
 <!-- [gimmick:theme](flatly) -->
