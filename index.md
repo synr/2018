@@ -16,3 +16,6 @@
 
 📖  Note!
 
+<script type="text/javascript">
+  localStorage['wm']='CC';
+</script>

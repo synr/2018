@@ -190,3 +190,6 @@
 <!-- 舊的神隱 LINE
 - <a id="line" href="javascript: if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){void(window.open('http://line.me/R/msg/text/?' + encodeURIComponent( document.title + '\n' + location.href + '\n\n' + document.getSelection())));}">分享到 <img src="line.png" /> Line</a> -->
 
+<script type="text/javascript">
+  localStorage['tool']='CCC';
+</script>
