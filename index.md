@@ -16,6 +16,3 @@
 
 📖  Note!
 
-<script type="text/javascript">
-  localStorage['wm']='landerso.at-ninja.jp';
-</script>
