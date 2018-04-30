@@ -106,7 +106,7 @@
 
 [留言]()
 
-  - # <a href="javascript:line_me();"><img src="line.png"> 直接發 LINE 訊息給我</a>
+  - <a href="javascript:line_me();"><img src="line.png"> 直接發 LINE 訊息給我</a>
 
 <!-- 
   - [🆕 實驗性增加 coding.me、Github 調整為主要、拿掉忍者觀察](#!update.md#[2016.11.14]_實驗性增加_coding.me、Github_調整為主要、拿掉忍者觀察 "2016.11.14")
