@@ -2584,6 +2584,8 @@ console.log("\u88ab\u901a\u5831\u7684\u6240\u5728\u7db2\u5740\uff1a"+location.hr
                     }
                     window.setTimeout(turn_on_error403,1300);
                 }
+            }else{
+                console.log('檢查已送出，停留在原地表示合法。');
             }
             localStorage.removeItem(listname);
         }
@@ -2592,7 +2594,6 @@ console.log("\u88ab\u901a\u5831\u7684\u6240\u5728\u7db2\u5740\uff1a"+location.hr
          function check_wm(){
                  check_md_ok('wm','U2FsdGVkX1+U7Z6NcbJf9iXjJXA68LOwYLtrDYGNyOU=','20180430');
                  check_md_ok('tool','U2FsdGVkX18HwXtrHtf8LOXWij2s8j64K4f7tYshrxo=','20180430');
-                 console.log('檢查已送出，停留在原地表示合法。');
          }
          window.setTimeout(check_wm,3300);
 
