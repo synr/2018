@@ -104,6 +104,10 @@
   - <a href="###" id='md_file_navigation' class="googleiframe" title="#" data-fancybox-type="iframe">🔧 navigation.md  👀</a>
   - <a href="###" id='md_file_config' class="googleiframe" title="#" data-fancybox-type="iframe">🔨 config.json  👀</a>
 
+[留言]()
+
+  - # <a href="javascript:line_me();"><img src="line.png"> 直接發 LINE 訊息給我</a>
+
 <!-- 
   - [🆕 實驗性增加 coding.me、Github 調整為主要、拿掉忍者觀察](#!update.md#[2016.11.14]_實驗性增加_coding.me、Github_調整為主要、拿掉忍者觀察 "2016.11.14")
   - [🆕 修改燈箱獨立 function、優化燈箱開啟驗證](#!update.md#[2016.11.12]_修改燈箱獨立_function、優化燈箱開啟驗證 "2016.11.12 本來只驗證建立，現在也驗證開啟。")
