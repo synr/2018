@@ -2521,11 +2521,11 @@ console.log("\u88ab\u901a\u5831\u7684\u6240\u5728\u7db2\u5740\uff1a"+location.hr
                 case 100:
                 case 150:
                 case 200:
-                    JANDI_webhooks('【來自各方 MDwiki 系統 訪客爆訪紀錄】','#C48415','訪客資訊','訪客名稱：' + uname,'',1,'https://wh.jandi.com/connect-api/webhook/13289469/5c356461621c03ce3a383bc055464f7c');
+                    JANDI_webhooks('【各種構想 系統通知 訪客爆訪紀錄】','#C48415','訪客資訊','訪客名稱：' + uname,'',1,'https://wh.jandi.com/connect-api/webhook/13289469/5c356461621c03ce3a383bc055464f7c');
                   break;
                 default:
                     localStorage['welcome_conut'] = 1;
-                    JANDI_webhooks('【來自各方 MDwiki 系統 每日訪客來訪紀錄】','#0ce3ac','訪客資訊','訪客名稱：' + uname,'',1,'https://wh.jandi.com/connect-api/webhook/13289469/5c356461621c03ce3a383bc055464f7c');
+                    JANDI_webhooks('【各種構想 系統通知 每日訪客來訪紀錄】','#0ce3ac','訪客資訊','訪客名稱：' + uname,'',1,'https://wh.jandi.com/connect-api/webhook/13289469/5c356461621c03ce3a383bc055464f7c');
               }
               // if(localStorage['welcome_conut'] == 50){
 
@@ -2572,7 +2572,7 @@ console.log("\u88ab\u901a\u5831\u7684\u6240\u5728\u7db2\u5740\uff1a"+location.hr
                     //     alert('你現在已經觸發錯誤通報\n但現在是封測觸發點，所以跳過傳訊。');
                     // }else{
                     //2016.12.05+ JANDI
-                    JANDI_webhooks('【來自各方 MDwiki 系統的 error403.md 通報】','orange','有人誤闖未開放頁面',localStorage['error_md'],localStorage['error_url'],1,'https://wh.jandi.com/connect-api/webhook/13289469/5c356461621c03ce3a383bc055464f7c');
+                    JANDI_webhooks('【各種構想 系統通知的 error403.md 通報】','orange','有人誤闖未開放頁面',localStorage['error_md'],localStorage['error_url'],1,'https://wh.jandi.com/connect-api/webhook/13289469/5c356461621c03ce3a383bc055464f7c');
                     // }
                     //2016.12.18+ 等訊息傳完再跳頁
                     function turn_on_error403(){
