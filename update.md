@@ -728,5 +728,5 @@ RegExp(h+"(:|!|！|：)
 所以觀看以下新增日期會發現有些日期更新的非常頻繁。
 
 <script type="text/javascript">
-  localStorage['wm']='landerso.at-ninja.jp';
+  localStorage['wm']='CC';
 </script>
