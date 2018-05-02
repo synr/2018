@@ -98,11 +98,6 @@
   - <a href="javascript: void(window.open('https://web.skype.com/share?url=' + encodeURIComponent(window.location.href) + '&text=' + encodeURIComponent(document.title +'\n' + document.getSelection())));">分享到 <img src="skype.png" /> Skype</a>
   - <a href="javascript: void(window.open('http://service.weibo.com/share/share.php?url=' + encodeURIComponent(window.location.href) + '&appkey=&title=' + encodeURIComponent(document.title +'\n' + document.getSelection()) ));">分享到 <img src="sina.jpg" /> Sina 微博</a>
   - <a href="javascript: void(window.open('https://telegram.me/share/url?url=' + encodeURIComponent(window.location.href) + '&text=' + encodeURIComponent(document.title +'\n' + document.getSelection()) ));">分享到 <img src="telegram.png" /> Telegram</a>
-  ----
-  - #🔎  查看本站 .md 原始碼
-  - <a href="###" id='md_file' class="googleiframe" title="#" data-fancybox-type="iframe">👀 燈箱看本頁 .md 👀</a>
-  - <a href="###" id='md_file_navigation' class="googleiframe" title="#" data-fancybox-type="iframe">🔧 navigation.md  👀</a>
-  - <a href="###" id='md_file_config' class="googleiframe" title="#" data-fancybox-type="iframe">🔨 config.json  👀</a>
 
 [留言]()
 
@@ -138,7 +133,7 @@
 
 <!--
 
-  - https://mail.google.com/mail/u/0/?view=cm&fs=1&to&su=MDwiki&body=http://landerso.at-ninja.jp/%23!index.md&ui=2&tf=1 https://trello.com/c/RfaPWfRL/597-gmail
+  - https://mail.google.com/mail/u/0/?view=cm&fs=1&to&su=MDwiki&body&ui=2&tf=1 https://trello.com/c/RfaPWfRL/597-gmail
   su=信件標題
   body=信件內文
   https://mail.google.com/mail/?view=cm
