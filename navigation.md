@@ -20,15 +20,6 @@
   - <a href="javascript:himitsu_ui('U2FsdGVkX1+IUFEqTr/bZx3d9qmPjmjS1px7fjzfjfvpdatjU8LOlWzuGsChKdTucXyYHUdp4aaooGCAN7SXjF/FwoYMMMX4AZqgKa6yTcUn4AW/yPJsX+eaofyHyLKRUCERmmaXowABbRqrxNhicXXsjSwqk1d8gB/zyFsdA/y0buD6Bol41LCA+WX0tEsJZTTL+Y907aQdVLfWlEzewkNpAV/KzzeHM4JfUVuCaBaHW0j06ATBI9VGu0dFdNI+8S2ETR7R1m2e0cTvh0dtd7+Oq+jOQzX1lw4N9NGCsotOAhwnzttwzJl2EwtcZoMx4G9CQpMFBIyUlACjn7wRInH+HL8mFCpwt2sS6dFx+3HYnX/gkSaOVzaWrVgxMBOL','_blank');" title="要聽我唱歌嗎？直接問我本人暗號多少就可以聽了！">★─☆｡oﾟ｡共鳴中(o｀▽´)っ ～*♪･ﾟ｡☆彡</a>
 
 -->
-
-[語言]()
-
-  - #漢字轉換：
-  - #不換頁轉換主流漢字
-   ----
-  - #字體手動容量輕量化工具
-  - [線上抽取文字工具：web-fontmin](http://fontmin.forsigner.com)
-
 [構思階段]()
 
   - #圖文資訊整合出發
